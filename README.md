@@ -22,7 +22,7 @@ Swift
 </br>
 <img src = https://user-images.githubusercontent.com/75904114/178116156-38c08d91-f36d-469b-8bc2-6b45fc2066bb.png width=600 >
 
-## Video demonstrate the game:
+## Video demonstrates the game:
 
 
 
